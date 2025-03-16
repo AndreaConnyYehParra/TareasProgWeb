@@ -1,0 +1,15 @@
+---
+title: Bruno
+subtitle: Macho
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: Imagen6.jpg
+thumbnail: Imagen5.jpg
+alt: image-alt
+project-date: Febrero 2025
+client: Bruno
+category: Spa Perruno
+description: Bruno recibió un exclusivo spa perruno, con baño relajante, hidratación de su pelaje y masajes suaves. Ahora luce limpio, fresco y lleno de energía, listo para seguir robando miradas. ¡Un verdadero consentido! 
+
+---
